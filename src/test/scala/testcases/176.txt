@@ -1,0 +1,5 @@
+
+        void foo() {
+          foo("")[3]=abcd||goo()=false;
+        }
+      

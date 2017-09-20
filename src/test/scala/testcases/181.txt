@@ -1,0 +1,10 @@
+
+        void foo() {
+          if (a==b)
+            a;
+          else
+            b;
+          else
+            c;
+        }
+      

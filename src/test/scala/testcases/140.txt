@@ -1,0 +1,5 @@
+
+        void main() {
+          foo(2)[3]=arr[7]=true = x;
+        }
+      

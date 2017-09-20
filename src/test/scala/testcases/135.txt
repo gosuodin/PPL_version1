@@ -1,0 +1,4 @@
+
+    boolean a;
+    int b;
+    int main(){}

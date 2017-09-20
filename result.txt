@@ -1,0 +1,108 @@
+Run starting. Expected test count is: 0
+ParserSuite:
+-  1. Variable declaration 
+-   2. Variable declaration 
+-   3. Variable declaration 
+-   4. Variable declaration 
+-   5. Variable declaration fail: not primitive tyle
+-   6. Variable declaration fail: missing identifier
+-   7. Variable declaration fali: missing semi-colon
+-   8. Variable declaration fail: array decalaration without size
+-   9. Variable declaration 
+-   10. Variable declaration 
+-   11. Variable declaration: missing the end SEMI
+-   12. Variable declaration: missing COMMA in list variable
+-   13. Variable declaration 
+-   14. Variable declaration 
+-  15. Function declaration: prototype have no parameter
+-  16. Function declaration: prototype have a parameter
+-  17. Function declaration: prototype have many parameters
+-  18. Function declaration fail: missing TYPE
+-  19. Function declaration fail: missing fucntion name
+-  20. Function declaration fail: missing fucntion name
+-  21. Function declaration fail: missing block statement at the end
+-  22. Ffunction declaration fail: wrong type
+-  23. Function declaration fail: wrong function-name
+-  24. Function declaration fail: missing )
+-  25. Function declaration fail: missing )
+-  26. Function declaration: function return array pointer type
+-  27. Function declaration: function return array pointer type and input para array pointer type
+-  28. Function declaration fail: wrong separator in parameter list
+-  29. Function declaration fail: wrong parameter type
+-  30. Function declaration fail: wrong parameter-name
+-  31. Function declaration fail: does not support nested function
+-  32. Function declaration fail: not eccept size of array
+-  33. Function declaration fail: not eccept semi-colon after list of parameters
+-  34. Function declaration fail: wrong bracket at block statement
+-  35. Function declaration and global variable
+-  36. Function declaration and global variable
+-  37. Function declaration and global variable
+-  38. Mix declarations  within comment
+-  39. Expression: one assigment 
+-  40. Expression: many assigment
+-  41. Expression: OR operator
+-  42. Expression: AND operator
+-  43. Expression: '==' operator
+-  44. Expression: '!=' operator
+-  45. Expression: '<' operator
+-  46. Expression: '>' operator
+-  47. Expression: '<=' operator
+-  48. Expression: '>=' operator
+-  49. Expression: '+' operator
+-  50. Expression: '-' and '!' operator"
+-  51. Expression: '[]' operator
+-  52.  Expression: none-assoc operater
+-  53.  Expression: none-assoc operater
+-  54.  Expression: none-assoc operater
+-  55.  Expression: none-assoc operater
+-  56. Expression: statement within many type operater
+-  57. Expression: many not statement
+-  58. Expression: index statement
+- 59. Expression fail: array parameter
+-  60. Expression fail: missing index in index statement
+- 61. Expression fail: invalid array parameter
+- 62. if statement
+- 63. if else statement 
+- 64. Nested if statement
+- 65. Nested if else statement
+- 66. do while single statement
+- 67. do while multiple statements
+- 68. do while statement missing ending semicolon
+- 69. for statement block
+- 70. break statement
+- 71. continue statement
+- 72. return statement
+- 73. return statement
+- 74. Expression statement
+- 75. Block statement
+-  76. Expression statement
+-  77. Expression statement
+-  78. Expression fail: double or operator
+-  79. Expression fail: ! is infix operator
+-  80. If statement fail: wrong braket
+-  81. If statement fail
+-  82. do while statement fail: have no statement in do
+-  83. do while statement fail: missing while keyword
+-  84. for statement fail: missing statement in condition for
+-  85. for statement fail: wrong bracket
+-  86. for statement fail: wrong separator
+-  87. for statement fail: missing bracket
+-  88. for statement fail: missing SEMI
+-  89. return statement fail: missing semi-colon
+-  90. return statement fail: double return keyword
+-  90. Combinational test
+-  91. Combinational test
+-  92. Combinational test
+-  93. Combinational test
+-  94. Combinational test
+-  95. Combinational test
+-  96. Combinational test
+-  97. Combinational test
+-  98. Combinational test
+-  99. Combinational test
+-  100. Combinational test
+Run completed in 2 seconds, 912 milliseconds.
+Total number of tests run: 101
+Suites: completed 1, aborted 0
+Tests: succeeded 101, failed 0, canceled 0, ignored 0, pending 0
+All tests passed.

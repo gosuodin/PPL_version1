@@ -1,0 +1,1 @@
+void arreaSquare(int edge){}

@@ -1,0 +1,6 @@
+
+        float a[3], b;
+        void call(){}
+        float b;
+        string[] goo(string a, string b){}
+      

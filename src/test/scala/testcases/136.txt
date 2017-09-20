@@ -1,0 +1,4 @@
+
+    boolean a;
+    float a[];
+    int main(){}

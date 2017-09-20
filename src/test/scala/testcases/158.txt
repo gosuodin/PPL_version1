@@ -1,0 +1,8 @@
+
+        void foo() {
+          int intArr[10];
+          int x;
+          x = 1;
+          intArr[x - 1] = 0;
+        }
+      

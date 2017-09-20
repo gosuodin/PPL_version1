@@ -1,0 +1,500 @@
+compile
+clean
+compile
+testOnly LexerSuite
+compile
+testOnly LexerSuite
+compile
+testOnly LexerSuite
+compile
+testOnly LexerSuite
+compile
+testOnly LexerSuite
+compile
+testOnly LexerSuite
+compile
+testOnly LexerSuite
+compile
+clean
+compile
+testOnly ParserSuite
+compile
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/101.txt
+run -draw program ./src/test/scala/testcases/103.txt
+run -draw program ./src/test/scala/testcases/101.txt
+run -draw program ./src/test/scala/testcases/103.txt
+run -draw program ./src/test/scala/testcases/101.txt
+testOnly LexerSuite
+run -draw program ./src/test/scala/testcases/101.txt
+compile
+testOnly LexerSuite
+compile
+testOnly LexerSuite
+compile
+testOnly LexerSuite
+compile
+testOnly LexerSuite
+compile
+testOnly LexerSuite
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/101.txt
+testOnly LexerSuite
+compile
+testOnly LexerSuite
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/101.txt
+run -draw program ./src/test/scala/testcases/101.tx4
+run -draw program ./src/test/scala/testcases/104.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/105.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/105.txt
+run -draw program ./src/test/scala/testcases/106.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/106.txt
+testOnly LexerSuite
+run -draw program ./src/test/scala/testcases/106.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/106.txt
+testOnly LexerSuite
+run -draw program ./src/test/scala/testcases/106.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/106.txt
+compile
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/106.txt
+testOnly LexerSuite
+compile
+testOnly LexerSuite
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/106.txt
+compile
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/106.txt
+compile
+run -draw program ./src/test/scala/testcases/106.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/106.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/106.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/106.txt
+run -draw program ./src/test/scala/testcases/102.txt
+compile
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/102.txt
+compile
+testOnly LexerSuite
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/102.txt
+compile
+testOnly LexerSuite
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/102.txt
+compile
+run -draw program ./src/test/scala/testcases/102.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/102.txt
+testOnly ParserSuite
+compile
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/102.txt
+run -draw program ./src/test/scala/testcases/106.txt
+testOnly LexerSuite
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/106.txt
+run -draw program ./src/test/scala/testcases/107.txt
+compile
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/107.txt
+compile
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/107.txt
+compile
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/107.txt
+compile
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/107.txt
+compile
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/107.txt
+run -draw program ./src/test/scala/testcases/106.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/108.txt
+run -draw program ./src/test/scala/testcases/107.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/107.txt
+run -draw program ./src/test/scala/testcases/108.txt
+run -draw program ./src/test/scala/testcases/105.txt
+run -draw program ./src/test/scala/testcases/106.txt
+testOnly ParserSuite
+testOnly LexerSuite
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/106.txt
+clean
+exit
+compile
+testOnly LexerSuite
+compile
+testOnly LexerSuite
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/106.txt
+compile
+testOnly LexerSuite
+compile
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/106.txt
+compile
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/106.txt
+compile
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/106.txt
+compile
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/106.txt
+run -draw program ./src/test/scala/testcases/107.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/107.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/109.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/110.txt
+compile
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/110.txt
+testOnly LexerSuite
+compile
+testOnly LexerSuite
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/111.txt
+compile
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/111.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/111.txt
+run -draw program ./src/test/scala/testcases/112.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/112.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/112.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/112.txt
+run -draw program ./src/test/scala/testcases/111.txt
+run -draw program ./src/test/scala/testcases/113.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/112.txt
+testOnly LexerSuite
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/111.txt
+compile
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/111.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/113.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/3.txt
+run -draw program ./src/test/scala/testcases/103.txt
+compile
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/103.txt
+compile
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/105.txt
+run -draw program ./src/test/scala/testcases/104.txt
+run -draw program ./src/test/scala/testcases/105.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/105.txt
+run -draw program ./src/test/scala/testcases/104.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/104.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/105.txt
+run -draw program ./src/test/scala/testcases/110.txt
+run -draw program ./src/test/scala/testcases/114.txt
+testOnly ParserSuite
+compile
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/115.txt
+compile
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/137.txt
+compile
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/137.txt
+compile
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/137.txt
+compile
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/137.txt
+compile
+run -draw program ./src/test/scala/testcases/137.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/137.txt
+compile
+run -draw program ./src/test/scala/testcases/137.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/148.txt
+run -draw program ./src/test/scala/testcases/154.txt
+testOnly LexserSuite
+testOnly LexerSuite
+run -draw program ./src/test/scala/testcases/154.txt
+testOnly LexerSuite
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/158.txt
+run -draw program ./src/test/scala/testcases/159.txt
+testOnly LexerSuite
+compile
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/159.txt
+testOnly LexerSuite
+run -draw program ./src/test/scala/testcases/158.txt
+testOnly ParserSuite
+testOnly LexerSuite
+run -draw program ./src/test/scala/testcases/160.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/160.txt
+testOnly ParserSuite
+testOnly LexerSuite
+run -draw program ./src/test/scala/testcases/160.txt
+testOnly LexerSuite
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/160.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/160.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/160.txt
+compile
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/163.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/163.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/163.txt
+run -draw program ./src/test/scala/testcases/165.txt
+run -draw program ./src/test/scala/testcases/163.txt
+compile
+run -draw program ./src/test/scala/testcases/165.txt
+compile
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/163.txt
+run -draw program ./src/test/scala/testcases/175.txt
+compile
+run -draw program ./src/test/scala/testcases/175.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/175.txt
+compile
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/175.txt
+run -draw program ./src/test/scala/testcases/180.txt
+compile
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/180.txt
+run -draw program ./src/test/scala/testcases/195.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/195.txt
+compile
+run -draw program ./src/test/scala/testcases/195.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/195.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/100.txt
+run -draw program ./src/test/scala/testcases/200.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/110.txt
+run -draw program ./src/test/scala/testcases/200.txt
+testOnly ParserSuite
+compile
+testOnly ParserSuite
+compile
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/148.txt
+compile
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/148.txt
+run -draw program ./src/test/scala/testcases/197.txt
+run -draw program ./src/test/scala/testcases/59.txt
+run -draw program ./src/test/scala/testcases/159.txt
+compile
+testOnly ParserSuite
+compile
+testOnly ParserSuite
+compile
+testOnly ParserSuite
+testOnly LexerSuite
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/180.txt
+testOnly ParserSuite
+compile
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/112.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/112.txt
+run -draw program ./src/test/scala/testcases/116.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/117.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/117.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/117.txt
+run -draw program ./src/test/scala/testcases/112.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/112.txt
+run -draw program ./src/test/scala/testcases/117.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/119.txt
+run -draw program ./src/test/scala/testcases/118.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/118.txt
+compile
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/118.txt
+compile
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/118.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/159.txt
+compile
+testOnly ParserSuite
+compile
+testOnly ParserSuite
+compile
+testOnly ParserSuite
+compile
+testOnly ParserSuite
+compile
+testOnly ParserSuite
+compile
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/197.txt
+compile
+run -draw program ./src/test/scala/testcases/197.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/197.txt
+run -draw program ./src/test/scala/testcases/180.txt
+run -draw program ./src/test/scala/testcases/156.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/156.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/156.txt
+testOnly ParserSuite
+compile
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/159.txt
+compile
+run -draw program ./src/test/scala/testcases/159.txt
+testOnly ParserSuite
+compile
+testOnly ParserSuite
+compile
+testOnly ParserSuite
+compile
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/194.txt
+testOnly ParserSuite
+testOnly LexerSuite
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/199.txt
+run -draw program ./src/test/scala/testcases/197.txt
+testOnly LexerSuite
+run -draw program ./src/test/scala/testcases/197.txt
+compile
+run -draw program ./src/test/scala/testcases/197.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/197.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/197.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/197.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/197.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/197.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/197.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/197.txt
+testOnly ParserSuite
+compile
+testOnly ParserSuite
+compile
+testOnly ParserSuite
+compile
+testOnly ParserSuite
+compile
+testOnly ParserSuite
+compile
+testOnly ParserSuite
+compile
+testOnly LexerSuite
+compile
+testOnly LexerSuite
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/164.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/164.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/120.txt
+testOnly LexerSuite
+testOnly ParserSuite
+testOnly LexerSuite
+compile
+testOnly LexerSuite
+compile
+testOnly LexerSuite
+testOnly ParserSuite
+compile
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/120.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/120.txt
+testOnly ParserSuite
+compile
+testOnly ParserSuite
+testOnly LexerSuite
+compile
+testOnly LexerSuite
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/184.txt
+testOnly ParserSuite
+compile
+testOnly ParserSuite
+compile
+testOnly ParserSuite
+compile
+testOnly ParserSuite
+compile
+testOnly ParserSuite
+testOnly LexerSuite
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/132.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/133.txt
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/133.txt
+testOnly ParserSuite
+compile
+test OnlyPaserSuite
+test OnlyParsesSuite
+test OnlyPasserSuite
+test OnlyParserSuite
+testOnly ParserSuite
+sbt
+compile
+test OnlyParserSuite
+testOnly ParserSuite
+test OnlyParserSuite
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/174.txt
+testOnly ParserSuite
+testOnly LexerSuite
+testOnly ParserSuite
+testOnly LexerSuite
+^Z
+compile
+testOnly ParserSuite
+run -draw program ./src/test/scala/testcases/101.txt
+testOnly ParserSuite

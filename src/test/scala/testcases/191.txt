@@ -1,0 +1,5 @@
+
+        float foo() {
+          return foo(2)[arr[3]]="string wit\h number 123" + 125235e-369;
+        }
+      

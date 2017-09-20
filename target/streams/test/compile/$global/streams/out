@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\GOSUODIB\Desktop\NAM 3\NLNNLT\bai tap\assignment1\src\test\scala\ParserSuite.scala:942:34: Invalid literal number[0m
+[0m[[0m[31merror[0m] [0m[0m    assert(checkRec(input,expect,192s))[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\GOSUODIB\Desktop\NAM 3\NLNNLT\bai tap\assignment1\src\test\scala\ParserSuite.scala:943:3: ')' expected but '}' found.[0m
+[0m[[0m[31merror[0m] [0m[0m  }[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

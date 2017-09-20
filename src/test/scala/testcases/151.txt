@@ -1,0 +1,6 @@
+int main()
+    {
+      int intArr[10];
+      intArr[0] = 10;
+      return 0;
+    }

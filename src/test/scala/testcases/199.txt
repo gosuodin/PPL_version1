@@ -1,0 +1,10 @@
+
+        float getRich() {
+          return 100000000000;
+        }
+        void main() {
+          prinf( "Enter your name:");
+          scanf();
+          getRich();
+        }
+      

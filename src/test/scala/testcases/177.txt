@@ -1,0 +1,5 @@
+
+        void foo() {
+          (foo(258,"abcd")+1.5e-36)==arr[foo(true)];
+        }
+      

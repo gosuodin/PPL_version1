@@ -1,0 +1,10 @@
+
+        // inline comment
+        float a[3], b;
+        /* block comment
+        !@#$%^&*()_45
+        */
+        void call(){}
+        string a;
+        string[] goo(string a, string b){}
+      

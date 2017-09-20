@@ -1,0 +1,212 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite hostname="DESKTOP-2OCNRDT" name="ParserSuite" tests="101" errors="0" failures="0" skipped="0" time="2.63">
+                     <properties>
+      <property name="jline.esc.timeout" value="0"/><property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/><property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_144\jre\bin"/><property name="java.vm.version" value="25.144-b01"/><property name="java.vm.vendor" value="Oracle Corporation"/><property name="java.vendor.url" value="http://java.oracle.com/"/><property name="path.separator" value=";"/><property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/><property name="file.encoding.pkg" value="sun.io"/><property name="user.country" value="US"/><property name="user.script" value=""/><property name="sun.java.launcher" value="SUN_STANDARD"/><property name="sun.os.patch.level" value=""/><property name="java.vm.specification.name" value="Java Virtual Machine Specification"/><property name="user.dir" value="C:\Users\GOSUODIB\Desktop\NAM 3\NLNNLT\bai tap\assignment1"/><property name="java.runtime.version" value="1.8.0_144-b01"/><property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/><property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_144\jre\lib\endorsed"/><property name="os.arch" value="amd64"/><property name="java.io.tmpdir" value="C:\Users\GOSUODIB\AppData\Local\Temp\"/><property name="line.separator" value="
+"/><property name="java.vm.specification.vendor" value="Oracle Corporation"/><property name="user.variant" value=""/><property name="os.name" value="Windows 10"/><property name="sun.jnu.encoding" value="Cp1252"/><property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_144\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Java\jdk1.8.0_144\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\MiKTeX 2.9\miktex\bin\x64\;C:\Program Files (x86)\sbt\bin;C:\Users\GOSUODIB\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;."/><property name="sun.awt.enableExtraMouseButtons" value="true"/><property name="java.specification.name" value="Java Platform API Specification"/><property name="java.class.version" value="52.0"/><property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/><property name="os.version" value="10.0"/><property name="user.home" value="C:\Users\GOSUODIB"/><property name="user.timezone" value="Asia/Bangkok"/><property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/><property name="file.encoding" value="Cp1252"/><property name="java.specification.version" value="1.8"/><property name="sbt.log.format" value="true"/><property name="java.class.path" value="C:\Program Files (x86)\sbt\bin\sbt-launch.jar"/><property name="user.name" value="GOSUODIB"/><property name="jline.shutdownhook" value="false"/><property name="java.vm.specification.version" value="1.8"/><property name="sun.java.command" value="xsbt.boot.Boot"/><property name="java.home" value="C:\Program Files\Java\jdk1.8.0_144\jre"/><property name="sun.arch.data.model" value="64"/><property name="user.language" value="en"/><property name="java.specification.vendor" value="Oracle Corporation"/><property name="awt.toolkit" value="sun.awt.windows.WToolkit"/><property name="java.vm.info" value="mixed mode"/><property name="java.version" value="1.8.0_144"/><property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_144\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/><property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_144\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_144\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_144\jre\classes"/><property name="java.vendor" value="Oracle Corporation"/><property name="sun.stderr.encoding" value="cp437"/><property name="file.separator" value="\"/><property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/><property name="sun.io.unicode.encoding" value="UnicodeLittle"/><property name="sun.cpu.endian" value="little"/><property name="sun.stdout.encoding" value="cp437"/><property name="sun.desktop" value="windows"/><property name="sun.cpu.isalist" value="amd64"/>
+    </properties>
+                     <testcase classname="ParserSuite" name=" Variable declaration" time="0.54">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Variable declaration" time="0.014">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Variable declaration" time="0.009">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Variable declaration" time="0.01">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Variable declaration fail: not primitive tyle" time="0.015">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Variable declaration fail: missing identifier" time="0.012">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Variable declaration fali: missing semi-colon" time="0.011">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Variable declaration fail: array decalaration without size" time="0.07">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Variable declaration" time="0.008">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Variable declaration" time="0.008">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Variable declaration: missing the end SEMI" time="0.011">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Variable declaration: missing COMMA in list variable" time="0.08">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Variable declaration" time="0.013">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Variable declaration" time="0.008">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Function declaration: prototype have no parameter" time="0.01">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Function declaration: prototype have a parameter" time="0.008">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Function declaration: prototype have many parameters" time="0.011">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Function declaration fail: missing TYPE" time="0.012">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Function declaration fail: missing fucntion name" time="0.016">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Function declaration fail: missing fucntion name" time="0.006">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Function declaration fail: missing block statement at the end" time="0.012">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Ffunction declaration fail: wrong type" time="0.01">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Function declaration fail: wrong function-name" time="0.012">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Function declaration fail: missing )" time="0.008">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Function declaration fail: missing )" time="0.016">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Function declaration: function return array pointer type" time="0.012">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Function declaration: function return array pointer type and input para array pointer type" time="0.012">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Function declaration fail: wrong separator in parameter list" time="0.081">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Function declaration fail: wrong parameter type" time="0.014">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Function declaration fail: wrong parameter-name" time="0.011">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Function declaration fail: does not support nested function" time="0.012">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Function declaration fail: not eccept size of array" time="0.011">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Function declaration fail: not eccept semi-colon after list of parameters" time="0.017">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Function declaration fail: wrong bracket at block statement" time="0.016">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Function declaration and global variable" time="0.01">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Function declaration and global variable" time="0.014">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Function declaration and global variable" time="0.07">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Mix declarations  within comment" time="0.018">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Expression: one assigment" time="0.081">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Expression: many assigment" time="0.021">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Expression: OR operator" time="0.014">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Expression: AND operator" time="0.02">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Expression: '==' operator" time="0.013">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Expression: '!=' operator" time="0.015">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Expression: '&lt;' operator" time="0.013">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Expression: '&gt;' operator" time="0.017">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Expression: '&lt;=' operator" time="0.015">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Expression: '&gt;=' operator" time="0.074">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Expression: '+' operator" time="0.014">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Expression: '-' and '!' operator&quot;" time="0.02">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Expression: '[]' operator" time="0.015">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name="  Expression: none-assoc operater" time="0.02">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name="  Expression: none-assoc operater" time="0.025">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name="  Expression: none-assoc operater" time="0.017">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name="  Expression: none-assoc operater" time="0.015">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Expression: statement within many type operater" time="0.019">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Expression: many not statement" time="0.023">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Expression: index statement" time="0.025">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Expression fail: array parameter" time="0.018">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Expression fail: missing index in index statement" time="0.025">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Expression fail: invalid array parameter" time="0.116">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" if statement" time="0.026">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" if else statement" time="0.018">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Nested if statement" time="0.018">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Nested if else statement" time="0.018">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" do while single statement" time="0.021">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" do while multiple statements" time="0.02">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" do while statement missing ending semicolon" time="0.018">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" for statement block" time="0.022">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" break statement" time="0.016">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" continue statement" time="0.016">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" return statement" time="0.016">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" return statement" time="0.014">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Expression statement" time="0.015">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Block statement" time="0.019">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Expression statement" time="0.028">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Expression statement" time="0.033">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Expression fail: double or operator" time="0.018">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Expression fail: ! is infix operator" time="0.019">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" If statement fail: wrong braket" time="0.028">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" If statement fail" time="0.021">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" do while statement fail: have no statement in do" time="0.029">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" do while statement fail: missing while keyword" time="0.02">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" for statement fail: missing statement in condition for" time="0.017">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" for statement fail: wrong bracket" time="0.017">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" for statement fail: wrong separator" time="0.021">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" for statement fail: missing bracket" time="0.018">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" for statement fail: missing SEMI" time="0.026">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" return statement fail: missing semi-colon" time="0.018">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" return statement fail: double return keyword" time="0.014">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Combinational test" time="0.014">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Combinational test" time="0.015">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Combinational test" time="0.018">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Combinational test" time="0.02">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Combinational test" time="0.02">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Combinational test" time="0.016">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Combinational test" time="0.011">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Combinational test" time="0.017">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Combinational test" time="0.031">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Combinational test" time="0.012">
+                                                 
+                                               </testcase><testcase classname="ParserSuite" name=" Combinational test" time="0.009">
+                                                 
+                                               </testcase>
+                     <system-out><![CDATA[]]></system-out>
+                     <system-err><![CDATA[]]></system-err>
+                   </testsuite>
